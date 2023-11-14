@@ -1,5 +1,5 @@
 ### Hi there 👋
-![guerrerocode.net's github stats](https://github-readme-stats.vercel.app/api?username=guerrerocode&show_icons=true)
+![guerrerocode.net's github stats](https://github-readme-stats.vercel.app/api?username=guerrerocodenet&show_icons=true)
 <!--
 **guerrerocodenet/guerrerocodenet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
